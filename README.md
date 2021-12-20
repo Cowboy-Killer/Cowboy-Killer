@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cowboy-Killer
 - 👀 I’m interested in future
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ---ERROR_TRY_LATER---
 - 📫 How to reach me ---ERROR_TRY_LATER---
 
